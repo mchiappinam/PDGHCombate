@@ -1,0 +1,8 @@
+TempoEmCombate: 15
+AoDesconectar:
+  MatarJogador: true
+  MostrarMensagemQueDeuDcEmCombateMaisNaoFoiMorto: false
+  ExecutarCMD: 'ban @player 5 §c§lDesconectar em combate§c'
+Bloquear:
+  Comandos: true
+  Teleporte: false

@@ -1,0 +1,9 @@
+name: PDGHCombate
+main: me.mchiappinam.pdghcombate.Main
+author: mchiappinam
+version: 1.0
+website: http://pdgh.net/
+commands:
+   pdghcombate:
+      description: Info
+      usage: /<command>
